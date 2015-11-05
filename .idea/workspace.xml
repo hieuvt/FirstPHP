@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29a3bd7a-6708-47a6-a3b6-8c169bf1b4fd" name="Default" comment="" />
+    <list default="true" id="29a3bd7a-6708-47a6-a3b6-8c169bf1b4fd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbapp/db.inc.php" afterPath="$PROJECT_DIR$/dbapp/db.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="FirstPHP.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +30,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dbapp/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.26923">
-              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
               <folding>
                 <element signature="e#6#93#0#PHP" expanded="true" />
               </folding>
@@ -35,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form.html.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="form.html.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/welcome/form.html.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6619318">
-              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -48,7 +52,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/welcome/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.8076925">
+            <state vertical-scroll-proportion="0.0">
               <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
               <folding />
             </state>
@@ -58,7 +62,7 @@
       <file leaf-file-name="welcome.html.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/welcome/welcome.html.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
@@ -68,22 +72,23 @@
       <file leaf-file-name="form.html.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dbapp/form.html.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.46153846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.inc.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="db.inc.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dbapp/db.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.8461537">
-              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding>
-                <marker date="1444115822858" expanded="true" signature="658:676" placeholder="SELECT * FRO..joke..." />
-                <marker date="1444115822858" expanded="true" signature="1030:1123" placeholder="INSERT INTO ..." />
-                <marker date="1444115822858" expanded="true" signature="1410:1441" placeholder="DELETE FROM ..." />
+                <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+                <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+                <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+                <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
               </folding>
             </state>
           </provider>
@@ -107,6 +112,9 @@
         <option value="Html5" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -148,7 +156,7 @@
     <option name="width" value="1376" />
     <option name="height" value="784" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -171,6 +179,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,7 +228,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
@@ -227,10 +235,10 @@
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../istt" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -292,27 +300,26 @@
       <workItem from="1443946590012" duration="3718000" />
       <workItem from="1444010936905" duration="11940000" />
       <workItem from="1444034660350" duration="812000" />
+      <workItem from="1444191381107" duration="745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16470000" />
+    <option name="totallyTimeSpent" value="17215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1376" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13455883" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13970588" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39851853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -320,10 +327,12 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39851853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -340,10 +349,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/dbapp/db.inc.php</url>
+          <line>42</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="23" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -352,6 +368,177 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/welcome/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/welcome.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/db.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+          <folding>
+            <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+            <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+            <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+            <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/jokes.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/welcome.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/db.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+            <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+            <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+            <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/jokes.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="e#6#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/welcome.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/db.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+            <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+            <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+            <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/jokes.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dbapp/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -375,9 +562,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <marker date="1444115822858" expanded="true" signature="658:676" placeholder="SELECT * FRO..joke..." />
-            <marker date="1444115822858" expanded="true" signature="1030:1123" placeholder="INSERT INTO ..." />
-            <marker date="1444115822858" expanded="true" signature="1410:1441" placeholder="DELETE FROM ..." />
+            <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+            <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+            <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+            <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -438,9 +626,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="17" />
           <folding>
-            <marker date="1444115822858" expanded="true" signature="658:676" placeholder="SELECT * FRO..joke..." />
-            <marker date="1444115822858" expanded="true" signature="1030:1123" placeholder="INSERT INTO ..." />
-            <marker date="1444115822858" expanded="true" signature="1410:1441" placeholder="DELETE FROM ..." />
+            <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+            <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+            <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+            <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -483,9 +672,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="17" />
           <folding>
-            <marker date="1444115822858" expanded="true" signature="658:676" placeholder="SELECT * FRO..joke..." />
-            <marker date="1444115822858" expanded="true" signature="1030:1123" placeholder="INSERT INTO ..." />
-            <marker date="1444115822858" expanded="true" signature="1410:1441" placeholder="DELETE FROM ..." />
+            <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+            <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+            <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+            <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -528,9 +718,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="17" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="17" />
           <folding>
-            <marker date="1444115822858" expanded="true" signature="658:676" placeholder="SELECT * FRO..joke..." />
-            <marker date="1444115822858" expanded="true" signature="1030:1123" placeholder="INSERT INTO ..." />
-            <marker date="1444115822858" expanded="true" signature="1410:1441" placeholder="DELETE FROM ..." />
+            <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+            <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+            <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+            <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
@@ -579,21 +770,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbapp/db.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.8461537">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-          <folding>
-            <marker date="1444115822858" expanded="true" signature="658:676" placeholder="SELECT * FRO..joke..." />
-            <marker date="1444115822858" expanded="true" signature="1030:1123" placeholder="INSERT INTO ..." />
-            <marker date="1444115822858" expanded="true" signature="1410:1441" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dbapp/form.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.46153846">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
@@ -601,8 +780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dbapp/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.26923">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
           </folding>
@@ -611,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/welcome/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.8076925">
+        <state vertical-scroll-proportion="0.0">
           <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
           <folding />
         </state>
@@ -619,7 +798,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/welcome/welcome.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
@@ -627,9 +806,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/welcome/form.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6619318">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbapp/db.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding>
+            <marker date="1444280002131" expanded="true" signature="854:868" placeholder="select * fro..users..." />
+            <marker date="1444280002131" expanded="true" signature="854:872" placeholder="select * fro..joke..." />
+            <marker date="1444280002131" expanded="true" signature="1218:1311" placeholder="INSERT INTO ..." />
+            <marker date="1444280002131" expanded="true" signature="1598:1629" placeholder="DELETE FROM ..." />
+          </folding>
         </state>
       </provider>
     </entry>

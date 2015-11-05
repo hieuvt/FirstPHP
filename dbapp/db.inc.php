@@ -27,16 +27,21 @@ if (!mysqli_select_db($link, $db_name)) {
 
 function takeAllJokes()
 {
-    global $link;
-    $result = mysqli_query($link, 'SELECT * FROM joke');
+    $mysqli = new mysqli('localhost', 'phpuser','phppw','ijdb');
+    if (mysqli_connect_errno()) {
+        echo("Failed to connect, the error message is : " .
+            mysqli_connect_error());
+        exit();
+    }
+    $result = $mysqli ->query("select * from joke");
     if (!$result)
     {
         $error = 'Database error counting jokes!';
         include 'error.html.php';
         exit();
     }
-    while ($row = mysqli_fetch_array($result)) {
-        $tmp_jokes[] = array('id' => $row['id'], 'text' => $row['joketext']);
+    while ($row = $result->fetch_object()) {
+        $tmp_jokes[] = array('id' => $row->id, 'text' => $row->joketext);
     }
     return $tmp_jokes;
 }
